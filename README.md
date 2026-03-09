@@ -13,4 +13,5 @@ Welcome to my personal portfolio website! This project showcases my academic jou
 * **Tools:** GitHub, GitHub Pages, Android Studio
 
 ## 🔗 Live Demo
-You can view my live portfolio here: `[Insert your GitHub Pages Link]`
+You can view my live portfolio here: `[Insert https://sharmadivyanshi071-eng.github.io/Aakai-s-portfolio-/your GitHub Pages Link]`
+https://sharmadivyanshi071-eng.github.io/Aakai-s-portfolio-/
